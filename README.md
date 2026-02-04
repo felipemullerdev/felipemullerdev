@@ -1,23 +1,24 @@
 ## 🖥️ Sobre Mim
-
-Sou um desenvolvedor de software dedicado à leitura de livros técnicos e a construção de projetos reais.
+### Sou um desenvolvedor de software dedicado à leitura de livros técnicos e à construção de projetos reais.
 * 🎓 Focado em **.NET, C#, Azure e desenvolvimento web moderno**
 * 📚 Comprometido com o **aprendizado contínuo**
 
+---
 ## 📚 Atualmente Lendo
 <table>
   <tr>
     <td>
-      <img src="https://www.casadocodigo.com.br/cdn/shop/products/OrientacaoaObjetoseSOLIDparaNinjas_ebook_large.jpg?v=1631653546" width="100" alt="Orientação a Objetos e SOLID para Ninjas">
+      <img src="https://www.casadocodigo.com.br/cdn/shop/products/OrientacaoaObjetoseSOLIDparaNinjas_ebook_large.jpg?v=1631653546" width="120" alt="Orientação a Objetos e SOLID para Ninjas">
     </td>
     <td>
-      <strong>Orientação a Objetos e SOLID para Ninjas</strong><br>
-      <em>Autor: Mauricio Aniche</em><br>
-      Aprofundando em técnicas de design de software e princípios SOLID para escrever códigos mais flexíveis e fáceis de manter.
+      <h3>Orientação a Objetos e SOLID para Ninjas</h3>
+      <p><strong>Autor: Mauricio Aniche</strong></p>
+      <h4>Aprofundando em técnicas de design de software e princípios SOLID para escrever códigos mais flexíveis e fáceis de manter.</h4>
     </td>
   </tr>
 </table>
 
+---
 ## 🛠 Tech Stack & Ferramentas
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -30,8 +31,8 @@ Sou um desenvolvedor de software dedicado à leitura de livros técnicos e a con
 ![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VISUAL STUDIO](https://img.shields.io/badge/VISUAL%20STUDIO-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
+---
 ## 🌐 Conecte-se Comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipemullerdev)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/felipemullerdev)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:FelipeSMuller@outlook.com)
-
