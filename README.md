@@ -11,8 +11,10 @@
     </td>
     <td>
       <h3>Orientação a Objetos e SOLID para Ninjas</h3>
-      <p><strong>Autor: Mauricio Aniche</strong></p>
-      <h4>Aprofundando em técnicas de design de software e princípios SOLID para escrever códigos mais flexíveis e fáceis de manter.</h4>
+      <p><i><strong>Autor: Mauricio Aniche</strong></i>
+         <br>
+        <i>Aprofundando em técnicas de design de software e princípios SOLID para escrever códigos mais flexíveis e fáceis de manter.</i>
+     </p>
     </td>
   </tr>
 </table>
