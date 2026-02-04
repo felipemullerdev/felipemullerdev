@@ -3,7 +3,6 @@
 * 🎓 Focado em **.NET, C#, Azure e desenvolvimento web moderno**
 * 📚 Comprometido com o **aprendizado contínuo**
 
----
 ## 📚 Atualmente Lendo
 <table>
   <tr>
@@ -18,7 +17,6 @@
   </tr>
 </table>
 
----
 ## 🛠 Tech Stack & Ferramentas
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -31,7 +29,6 @@
 ![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VISUAL STUDIO](https://img.shields.io/badge/VISUAL%20STUDIO-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
----
 ## 🌐 Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipemullerdev)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/felipemullerdev)
