@@ -1,7 +1,6 @@
 ## 🖥️ Sobre Mim
 
 Sou um desenvolvedor de software dedicado à leitura de livros técnicos e a construção de projetos reais.
-
 * 🎓 Focado em **.NET, C#, Azure e desenvolvimento web moderno**
 * 📚 Comprometido com o **aprendizado contínuo**
 
@@ -20,7 +19,6 @@ Sou um desenvolvedor de software dedicado à leitura de livros técnicos e a con
 </table>
 
 ## 🛠 Tech Stack & Ferramentas
-
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET CORE](https://img.shields.io/badge/ASP.NET%20CORE-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -31,3 +29,9 @@ Sou um desenvolvedor de software dedicado à leitura de livros técnicos e a con
 ![REACT](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VISUAL STUDIO](https://img.shields.io/badge/VISUAL%20STUDIO-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+## 🌐 Conecte-se Comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/felipemullerdev)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:FelipeSMuller@outlook.com)
+
